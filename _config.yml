@@ -1,0 +1,28 @@
+name: esali
+favicon: null
+layout_spectrum: 0.7026517468038946
+typography_spectrum: 0.5085466424934566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8372691441327333
+  lightness: 0.48541228868998587
+  saturation: 0.8990263224113733
+  rhythmicContrast: 0.8790850380901247
+purpose: []
