@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T14:29:09.751Z'
-dateModified: '2016-01-25T14:29:04.503Z'
-title: "Full service Digital Marketing and Communications agency that specialize in cost effective SEO, SEM, SMM, Branding, Content,\_Metrics, and Purchasing Solutions."
+datePublished: '2016-01-25T14:34:15.062Z'
+dateModified: '2016-01-25T14:34:10.061Z'
+title: 'Welcome to a Digital Solutions agency that specialize in cost effective SEO, SEM, SMM, Branding, Planning, Content, Automation, Programmatic, Web and App Development, Metrics and Purchasing'
 author: []
 sourcePath: _posts/2016-01-25-welcome-to-a-full-service-agency-of-storytellers-that-specia.md
 published: true
@@ -26,4 +26,4 @@ _type: Article
 
 # 
 
-Full service Digital Marketing and Communications agency that specialize in cost effective SEO, SEM, SMM, Branding, Content, Metrics, and Purchasing Solutions.
+Welcome to a Digital Solutions agency that specialize in cost effective SEO, SEM, SMM, Branding, Planning, Content, Automation, Programmatic, Web and App Development, Metrics and Purchasing
