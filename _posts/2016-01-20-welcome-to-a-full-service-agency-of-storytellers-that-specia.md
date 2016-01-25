@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Nordic Scandinavian Swedish Sweden Digital Marketing
-datePublished: '2016-01-25T10:30:56.327Z'
+datePublished: '2016-01-25T10:30:56.358Z'
 dateModified: '2016-01-25T10:30:53.519Z'
 title: Welcome to a full service agency of Storytellers that specialize in effective Content Marketing and Digital Communication strategies
 author: []
